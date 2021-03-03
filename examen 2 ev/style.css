@@ -1,0 +1,9 @@
+
+body {background-color: rgb(116, 215, 228);}
+p.alicante {background-color: red;}
+p.valencia {background-color: rgb(224, 206, 39);}
+p.castellon {background-color: pink;}
+img.alicante {height: 100px ; width: 150px;background-color: red; }
+img.valencia{height: 100px; width: 150px; background-color: rgb(224, 206, 39);}
+img.castellon {height: 100px;width: 150px; background-color: pink;}
+p.web {background-color: white;}
